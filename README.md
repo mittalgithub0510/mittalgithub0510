@@ -25,12 +25,12 @@
 ## 🚀 About Me
 
 ```yaml
-name: Harshit Mittal
-education: 3rd Year B.Tech CSE Student
-focus: Full Stack Development
-currently_learning: MERN Stack, Backend Development, Java DSA
-interests: Web Development, Scalable Applications, Cloud Computing, Problem Solving
-goal: To build production-ready applications and grow as a strong Software Developer
+Name: Harshit Mittal
+Education: 3rd Year B.Tech CSE Student
+Focus: Full Stack Development , DATA ANALYTICS , JAVA & DSA
+currently_learning: JAVA & DSA , DATA ANALYTICS , SYSTEM DESIGN , GEN AI
+Interests: Software Development , DSA , Real Time Problem Solver , Build Scalable Product
+Goal: To build production-ready applications and grow as a strong Software Developer
 ```
 
 - 💻 I am passionate about building **real-world web applications** with clean UI and strong backend logic.  
