@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Harshit Mittal</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Harshit+Mittal;Full+Stack+Developer;3rd+Year+B.Tech+CSE+Student;MERN+Stack+%7C+Java+DSA+%7C+Backend+Learner" alt="Typing SVG" />
+</h1>
 
 <h3 align="center">
-  3rd Year B.Tech CSE Student | Full Stack Developer | MERN Stack | Java DSA
+  Building real-world web applications with clean UI, strong backend logic and continuous learning.
 </h3>
 
 <p align="center">
@@ -14,10 +16,6 @@
   <a href="https://github.com/mittalgithub0510">
     <img src="https://img.shields.io/badge/GitHub-mittalgithub0510-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mittalgithub0510&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
